@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Mohammad Amin 👋
 
-<!--
-**aminpbabaloo/aminpbabaloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend / Full-Stack Engineer with 13+ years of experience  
+specializing in **React.js, Next.js, Web Architecture, and Performance Optimization**.
 
-Here are some ideas to get you started:
+I build **scalable, high-performance web applications** with a strong focus on:
+- Clean architecture
+- Maintainability
+- User experience
+- Long-term scalability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Core Expertise
+- **Frontend:** React.js, Next.js (SSR / SSG), TypeScript
+- **Architecture:** Component-based design, scalable frontend architecture
+- **Performance:** Web performance optimization, large-scale dashboards
+- **3D & Visualization:** WebGL, Three.js (Panorama / Interactive scenes)
+- **Backend:** .NET Core, RESTful APIs
+- **Tools:** Git, CI/CD, Docker (basic), Agile workflows
+
+---
+
+## 🚀 Featured Projects
+- **Pure Panorama WebGL Viewer**  
+  Minimal, dependency-light 360° panorama viewer built with Three.js  
+  👉 *Coming soon*
+
+(More projects will be added step by step.)
+
+---
+
+## 🌍 What I'm Looking For
+- Remote Frontend / Full-Stack roles
+- Product-driven teams
+- Companies that value clean code and architecture
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mohammad-amin-babaloo
+- GitHub: https://github.com/aminpbabaloo
